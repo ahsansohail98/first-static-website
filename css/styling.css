@@ -17,7 +17,7 @@
 
 .carousel-caption{
     position: absolute;
-    top: 43%;
+    top: 50%;
     transform: translateY(-80%);
     left: -50%;
 }
